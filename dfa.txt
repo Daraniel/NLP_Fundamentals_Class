@@ -1,0 +1,50 @@
+S
+F S ('A', 'F') ('B', 'F')
+Sb('G', 'R')
+Sa('B', 'R')
+SdS
+ScT
+AaB
+AbT
+AdT
+AcT
+Ba('A', 'F')
+BbT
+BdT
+BcT
+('A', 'F')a('B', 'F')
+('A', 'F')b('A',)
+('A', 'F')dT
+('A', 'F')cT
+('D', 'H')c('A', 'R')
+('D', 'H')d('H',)
+('D', 'H')bT
+('D', 'H')aT
+HcR
+HdH
+HbT
+HaT
+RbT
+RaT
+RdT
+RcT
+('G', 'R')a('D', 'H')
+('G', 'R')bT
+('G', 'R')dT
+('G', 'R')cT
+('B', 'R')a('A', 'F')
+('B', 'R')bT
+('B', 'R')dT
+('B', 'R')cT
+('B', 'F')a('A', 'F')
+('B', 'F')bA
+('B', 'F')dT
+('B', 'F')cT
+('A', 'R')aB
+('A', 'R')bT
+('A', 'R')dT
+('A', 'R')cT
+TbT
+TaT
+TdT
+TcT
